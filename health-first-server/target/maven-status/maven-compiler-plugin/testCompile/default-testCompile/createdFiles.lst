@@ -1,0 +1,7 @@
+com/healthfirst/server/HealthFirstServerApplicationTests.class
+com/healthfirst/server/service/ProviderServiceTest.class
+com/healthfirst/server/service/PatientServiceTest.class
+com/healthfirst/server/controller/PatientControllerTest.class
+com/healthfirst/server/service/AuthServiceTest.class
+com/healthfirst/server/config/TestSecurityConfig.class
+com/healthfirst/server/controller/AuthControllerTest.class
